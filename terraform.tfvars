@@ -1,0 +1,8 @@
+region="eu-west-3"
+vpc_cidr="10.0.0.0/16"
+pub_sub1_cidr_block = "10.0.2.0/24"
+pub_sub2_cidr_block = "10.0.3.0/24"
+prv_sub1_cidr_block = "10.0.0.0/24"
+prv_sub2_cidr_block = "10.0.1.0/24"
+az1="eu-west-3a"
+az2 = "eu-west-3b"
